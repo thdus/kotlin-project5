@@ -1,6 +1,7 @@
 # 스톱워치 앱 구현
 
-<img src="https://user-images.githubusercontent.com/24618293/198325565-594f835b-0d2c-4eb4-bd19-2a7e93d12e10.gif" width="300">
+<img src="![198325565-594f835b-0d2c-4eb4-bd19-2a7e93d12e10-ezgif com-crop](https://github.com/user-attachments/assets/87ec7a1f-b29c-480e-939b-b9d48c795cf4)
+" width="300">
 
 # Chapter 0. 개요
 
