@@ -1,9 +1,5 @@
 # 스톱워치 앱 구현
-![Example GIF](https://github.com/user-attachments/assets/f3bd4de6-4f32-4716-8c59-88a741278c7c)
-
-
-
-# Chapter 0. 개요
+<img src="https://github.com/user-attachments/assets/f3bd4de6-4f32-4716-8c59-88a741278c7c" width="300" />
 
 ### 구현기능
 
